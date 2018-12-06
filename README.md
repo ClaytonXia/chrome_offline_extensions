@@ -11,8 +11,8 @@ chrome offline extensions
 
 如何获取扩展压缩包:
 
-1. https://chrome.google.com/webstore/category/extensions搜索扩展,复制扩展详情页url
-2. 到https://crxextractor.com根据扩展url下载crx文件，并重命名为zip
+1. https://chrome.google.com/webstore/category/extensions 搜索扩展,复制扩展详情页url
+2. 到https://crxextractor.com 根据扩展url下载crx文件，并重命名为zip
 
 
 如何提交自己的扩展:
